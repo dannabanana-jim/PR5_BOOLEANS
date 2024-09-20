@@ -51,4 +51,11 @@ print(bool("abc"))  # Imprime True porque "abc" es una cadena no vacía.
 print((bool(123)))  # Imprime True porque 123 es un número diferente de cero.
 
 print (" ")
-![image](https://github.com/user-attachments/assets/a4c944f0-9b70-4af6-bf1c-5dce662ac5b3)
+![image](https://github.com/user-attachments/assets/159b7d1d-7f68-4dca-b591-78ab7cc04b2b)
+![image](https://github.com/user-attachments/assets/09222a4d-59b7-41b6-8872-1d17b9ae8567)
+![image](https://github.com/user-attachments/assets/1c7d922a-982b-40c5-8bb6-55f06decce85)
+
+
+
+
+
